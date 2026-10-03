@@ -1,0 +1,6 @@
+{
+  "Name": "Template_REF_DataTable",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework Template for DataTable",
+  "MainFile": "Main.xaml"
+}
